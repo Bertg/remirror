@@ -1,5 +1,15 @@
 # @remirror/preset-react-checkbox
 
+## 1.0.0-next.35
+
+> 2020-09-12
+
+### Patch Changes
+
+- Updated dependencies [[`1b6b2922`](https://github.com/remirror/remirror/commit/1b6b2922cdc83d5a426cf43d3ad9540c18b799d9), [`725df02b`](https://github.com/remirror/remirror/commit/725df02b53fa16b9c7a3768b0c9464e739e35813)]:
+  - @remirror/core@1.0.0-next.35
+  - @remirror/pm@1.0.0-next.35
+
 ## 1.0.0-next.34
 
 > 2020-09-10

@@ -1,5 +1,71 @@
 # remirror
 
+## 1.0.0-next.35
+
+> 2020-09-12
+
+### Patch Changes
+
+- [`725df02b`](https://github.com/remirror/remirror/commit/725df02b53fa16b9c7a3768b0c9464e739e35813) [#672](https://github.com/remirror/remirror/pull/672) Thanks [@ifiokjr](https://github.com/ifiokjr)! - Reduce bundle size by updating babel configuration thanks to help from [preconstruct/preconstruct/297](https://github.com/preconstruct/preconstruct/issues/297#issuecomment-690964802). [Fixes #358](https://github.com/remirror/remirror/issues/358).
+
+- Updated dependencies [[`1b6b2922`](https://github.com/remirror/remirror/commit/1b6b2922cdc83d5a426cf43d3ad9540c18b799d9), [`725df02b`](https://github.com/remirror/remirror/commit/725df02b53fa16b9c7a3768b0c9464e739e35813)]:
+  - @remirror/core-utils@1.0.0-next.35
+  - @remirror/core@1.0.0-next.35
+  - @remirror/core-constants@1.0.0-next.35
+  - @remirror/core-helpers@1.0.0-next.35
+  - @remirror/core-types@1.0.0-next.35
+  - @remirror/dom@1.0.0-next.35
+  - @remirror/extension-annotation@1.0.0-next.35
+  - @remirror/extension-auto-link@1.0.0-next.35
+  - @remirror/extension-bidi@1.0.0-next.35
+  - @remirror/extension-blockquote@1.0.0-next.35
+  - @remirror/extension-bold@1.0.0-next.35
+  - @remirror/extension-code@1.0.0-next.35
+  - @remirror/extension-code-block@1.0.0-next.35
+  - @remirror/extension-collaboration@1.0.0-next.35
+  - @remirror/extension-diff@1.0.0-next.35
+  - @remirror/extension-doc@1.0.0-next.35
+  - @remirror/extension-drop-cursor@1.0.0-next.35
+  - @remirror/extension-emoji@1.0.0-next.35
+  - @remirror/extension-epic-mode@1.0.0-next.35
+  - @remirror/extension-events@1.0.0-next.35
+  - @remirror/extension-gap-cursor@1.0.0-next.35
+  - @remirror/extension-hard-break@1.0.0-next.35
+  - @remirror/extension-heading@1.0.0-next.35
+  - @remirror/extension-history@1.0.0-next.35
+  - @remirror/extension-horizontal-rule@1.0.0-next.35
+  - @remirror/extension-image@1.0.0-next.35
+  - @remirror/extension-italic@1.0.0-next.35
+  - @remirror/extension-link@1.0.0-next.35
+  - @remirror/extension-mention@1.0.0-next.35
+  - @remirror/extension-mention-atom@1.0.0-next.35
+  - @remirror/extension-paragraph@1.0.0-next.35
+  - @remirror/extension-placeholder@1.0.0-next.35
+  - @remirror/extension-position-tracker@1.0.0-next.35
+  - @remirror/extension-positioner@1.0.0-next.35
+  - @remirror/extension-react-component@1.0.0-next.35
+  - @remirror/extension-react-ssr@1.0.0-next.35
+  - @remirror/extension-search@1.0.0-next.35
+  - @remirror/extension-strike@1.0.0-next.35
+  - @remirror/extension-text@1.0.0-next.35
+  - @remirror/extension-trailing-node@1.0.0-next.35
+  - @remirror/extension-underline@1.0.0-next.35
+  - @remirror/extension-yjs@1.0.0-next.35
+  - @remirror/pm@1.0.0-next.35
+  - @remirror/preset-core@1.0.0-next.35
+  - @remirror/preset-embed@1.0.0-next.35
+  - @remirror/preset-list@1.0.0-next.35
+  - @remirror/preset-react@1.0.0-next.35
+  - @remirror/preset-social@1.0.0-next.35
+  - @remirror/preset-table@1.0.0-next.35
+  - @remirror/preset-wysiwyg@1.0.0-next.35
+  - @remirror/react@1.0.0-next.35
+  - @remirror/react-hooks@1.0.0-next.35
+  - @remirror/react-social@1.0.0-next.35
+  - @remirror/react-utils@1.0.0-next.35
+  - @remirror/react-wysiwyg@1.0.0-next.35
+  - @remirror/theme@1.0.0-next.35
+
 ## 1.0.0-next.34
 
 > 2020-09-10
